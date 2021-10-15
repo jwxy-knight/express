@@ -1,11 +1,11 @@
 {
-    "name": "flex/express",
+    "name": "fringe/express",
     "description": "支持快递鸟、快递100的快递查询SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "Flex",
-            "email": "2345@mail.com"
+            "name": "fringe",
+            "email": "jiangjun666@foxmail.com"
         }
     ],
     "require": {
@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Flex\\Express\\": "./src"
+            "Fringe\\Express\\": "./src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Flex\\Express\\ServiceProvider"
+                "Fringe\\Express\\ServiceProvider"
             ]
         }
     }
