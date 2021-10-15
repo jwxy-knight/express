@@ -12,7 +12,7 @@
 ## 安装
 
 ```shell
-$ composer require flex/express -vvv
+$ composer require fringe/express -vvv
 ```
 ## 配置
 
